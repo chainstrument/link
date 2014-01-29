@@ -1,0 +1,28 @@
+
+Modelisation
+	lib
+		- twig
+		- jquery
+		- bootstrap
+	 base 
+		 tables
+			- user
+				- id
+				- name
+				- username
+				
+			- categorie (php, mysql, ajax,html, css)
+				- id
+				- name
+				- date_add
+				- 
+			- link
+				id
+				name
+				site
+				date_add
+				remarque
+				
+	Architecture
+		MVC
+		DP
